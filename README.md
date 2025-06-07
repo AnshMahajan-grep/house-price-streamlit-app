@@ -4,6 +4,12 @@ A user-friendly Streamlit web app for predicting house prices using machine lear
 
 ---
 
+## 🌐 Deployment
+
+You can deploy this app for free on [Render](https://render.com/) or [Streamlit Community Cloud](https://streamlit.io/cloud) by connecting your GitHub repo and following their deployment instructions.
+
+- **Access the live app here:** [https://house-price-streamlit-app.onrender.com](https://house-price-streamlit-app.onrender.com)
+
 ## 🚀 Features
 
 - **Single Prediction:** Enter house details in the sidebar to get an instant price estimate.
